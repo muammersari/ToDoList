@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
-      "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\Core\\Core.csproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Muammer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,9 +61,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

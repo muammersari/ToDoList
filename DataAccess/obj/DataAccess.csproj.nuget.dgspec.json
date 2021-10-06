@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
-        "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Muammer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\Muammer\\Documents\\GitHub\\ToDoList\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
