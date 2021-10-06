@@ -1,0 +1,10 @@
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Muammer\Documents\GitHub\ToDoList\Business\obj\Debug\netcoreapp3.1\Business.pdb
