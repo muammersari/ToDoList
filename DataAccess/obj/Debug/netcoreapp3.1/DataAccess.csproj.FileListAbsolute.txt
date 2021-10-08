@@ -8,3 +8,11 @@ C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\Da
 C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete

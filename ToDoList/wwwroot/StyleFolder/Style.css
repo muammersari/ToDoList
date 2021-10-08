@@ -1,0 +1,26 @@
+﻿
+table thead {
+    position: sticky;
+    top: 0px;
+    z-index: 5;
+    background-color: lightgray;
+}
+
+.divTable {
+    overflow-x: auto;
+    overflow-y: auto;
+    height: auto;
+    max-height: 400px;
+}
+div.container-fluid {
+    height: 100%;
+    width: 100%;
+}
+
+div.cardAdd {
+    background-color: whitesmoke;
+}
+
+textarea {
+    resize: none;
+}

@@ -8,3 +8,6 @@ C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\obj\Debug\netcoreapp3.1\Enti
 C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Muammer\Documents\GitHub\ToDoList\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
